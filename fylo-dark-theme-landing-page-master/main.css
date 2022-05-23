@@ -126,4 +126,20 @@ body{
 .feature h3 { 
     margin-top:25px;
     margin-bottom:25px;
+} 
+
+.extra-description{
+    display:flex; 
+    align-items: center;
+    padding-left: 114px;
+    padding-right: 114px;
+} 
+
+.image-box{
+    height: 463px; 
+    width: auto;
+    margin-right: 64px;
+}
+.text-box :not(:last-child){
+    padding-bottom: 27px;
 }
